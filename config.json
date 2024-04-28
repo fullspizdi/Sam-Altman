@@ -1,0 +1,13 @@
+{
+  "search_keyword": "Sam Altman",
+  "output_directory": "./saved_resources",
+  "file_types": ["html", "pdf", "docx", "txt"],
+  "websites_to_search": [
+    "https://en.wikipedia.org",
+    "https://www.techcrunch.com",
+    "https://www.medium.com",
+    "https://www.arxiv.org"
+  ],
+  "max_files_per_type": 50,
+  "crawl_depth": 2
+}
